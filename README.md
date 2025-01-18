@@ -14,7 +14,7 @@ This project aims to detect anomalies in datasets using various anomaly detectio
 The anomalies detected are visualized using graphs (e.g., scatter plots, box plots) to show how well the system identifies outliers.
 
 ## Libraries and Tools Used
-- **Python 3.x**
+- **Python 3**
 - **NumPy**: For data manipulation and numerical operations.
 - **Pandas**: For data manipulation and handling datasets.
 - **Matplotlib** and **Seaborn**: For plotting and visualizing data.
